@@ -27,4 +27,4 @@ It fetches real-time weather data using the OpenWeather API and displays it thro
 
 ## File
 
-* `weather_gui.py` – Main Python GUI weather application
+* `Weatherapp.py` – Main Python GUI weather application
